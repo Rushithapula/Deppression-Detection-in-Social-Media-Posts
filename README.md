@@ -13,4 +13,4 @@ illness. Failure to recognize depression early, guarantees that a depressed indi
 prompt counseling can lead to serious issues. Social media allow us to monitor people's 
 thoughts, daily activities, and emotions, including persons with mental illnesses. My Project 
 aims to address the task of depression level classification based on text data and emotion data 
-with a comparative analysis using **ML and DL models**.
+with a comparative analysis using **ML and DL models**(Multinomial Navie Bayes & Bidirectional Long Short Term Memory).
